@@ -1,0 +1,6 @@
+[submodule "clo-author"]
+	path = clo-author
+	url = https://github.com/profedeoro/AI-academicresearchtutorTPACK.git
+[submodule ".claude/skills/academic-research-skills"]
+	path = .claude/skills/academic-research-skills
+	url = https://github.com/Imbad0202/academic-research-skills.git

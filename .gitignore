@@ -1,0 +1,98 @@
+# Sistema operativo
+.DS_Store
+Thumbs.db
+desktop.ini
+*.swp
+*.swo
+*~
+
+# Editores
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg-info/
+.venv/
+venv/
+env/
+
+# Node / JS
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# R
+.Rhistory
+.RData
+.Ruserdata
+.Rapp.history
+.Rproj.user/
+
+# LaTeX (artefactos de compilación)
+*.aux
+*.bbl
+*.bcf
+*.blg
+*.fdb_latexmk
+*.fls
+*.lof
+*.log
+*.lot
+*.out
+*.run.xml
+*.synctex.gz
+*.toc
+*.xdv
+
+# Datos crudos (NO trackear datos del piloto)
+data/raw/
+data/personal/
+*.csv.bak
+
+# Estado local de Claude Code (machine-specific)
+.claude/state/
+.claude/cache/
+
+# Logs y temporales
+*.log
+*.tmp
+tmp/
+temp/
+
+# Archivos de configuración local
+.env
+.env.local
+*.local.json
+!.claude/settings.local.json
+!clo-author/.claude/settings.local.json
+
+# Secretos y credenciales (NUNCA commitear)
+*.pem
+*.key
+*credentials*
+*secret*
+.aws/
+.ssh/
+
+# Outputs generados que se regeneran
+quality_reports/progress/*.pdf
+clo-author/quality_reports/progress/*.pdf
+clo-author/paper/main.pdf
+clo-author/paper/talks/*.pdf
+clo-author/paper/quarto/_site/
+
+# Replication packages temporales (solo cuando están en construcción)
+clo-author/paper/replication/_build/
+
+# Archivos de Word del usuario (versiones de respaldo)
+~$*.docx
+~$*.xlsx
