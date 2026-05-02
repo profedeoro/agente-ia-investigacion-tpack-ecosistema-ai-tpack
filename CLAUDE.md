@@ -148,6 +148,7 @@ El término "ecosistema" no es metáfora suelta — está fundamentado en litera
 | `architecture.md` | Cómo se integran clo-author + skills auxiliares |
 | `theoretical-foundations.md` | Todos los frameworks teóricos con citas completas |
 | `entry-points.md` | Routing: cuándo usar qué componente |
+| `tpack-skill-mapping.md` | Mapeo operacional de cada componente a su intersección TPACK |
 | `clo-author/CLAUDE.md` | Configuración operativa del pipeline TPACK |
 | `clo-author/quality_reports/research_spec_ecosistema_ia.md` | Especificación completa de la investigación |
 
