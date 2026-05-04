@@ -257,7 +257,7 @@ Este ecosistema combina y extiende:
 - **superpowers** (obra) — patrones de systematic-debugging, verification-before-completion y TDD adaptados como `/tools` subcommands para el contexto académico
 - **claude-code-templates** — error-detective y canvas-design integrados al modo docente
 
-**Investigador principal y diseño AI-TPACK:** Daniel Eduardo Villalba de Oro, Politécnico Grancolombiano.
+**Investigador principal y diseño AI-TPACK:** Daniel Eduardo Villalba de Oro, Monica Andrea Mantilla Contreras Politécnico Grancolombiano.
 
 ---
 
