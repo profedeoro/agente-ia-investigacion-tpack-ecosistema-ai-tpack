@@ -4,7 +4,7 @@
 > Diseñado y validado bajo la tríada **estudiante — tutor IA — docente**.
 
 [![License: CC BY-NC 4.0](https://img.shields.io/badge/license-CC%20BY--NC%204.0-lightgrey)](https://creativecommons.org/licenses/by-nc/4.0/)
-[![Status](https://img.shields.io/badge/status-pilot--ready-blue)](#estado-de-la-investigación)
+[![Status](https://img.shields.io/badge/status-en--desarrollo-yellow)](#estado-de-la-investigación)
 [![TPACK](https://img.shields.io/badge/framework-AI--TPACK-purple)](#por-qué-este-proyecto-es-distinto)
 [![Institution](https://img.shields.io/badge/institution-Polit%C3%A9cnico%20Grancolombiano-orange)](https://www.poli.edu.co)
 
@@ -22,7 +22,7 @@ La literatura confirma el patrón en Latinoamérica: la relación estudiante-ase
 
 ## Por Qué Este Proyecto es Distinto
 
-Existen herramientas de IA para investigación. Lo que **no existe** es un sistema que integre los tres elementos —pedagogía, IA, acompañamiento investigativo— bajo un marco teórico coherente, validado empíricamente, en contexto latinoamericano de posgrado.
+Existen herramientas de IA para investigación. Lo que **no existe** es un sistema que integre los tres elementos —pedagogía, IA, acompañamiento investigativo— bajo un marco teórico coherente, con fundamentación teórica sólida, en contexto latinoamericano de posgrado. El diseño ya cuenta con validación por juicio de expertos y encuesta de percepción docente completadas; la validación empírica mediante prueba piloto está pendiente (ver [Estado de la Investigación](#estado-de-la-investigación)).
 
 Este proyecto se distingue en **cuatro frentes simultáneos**:
 

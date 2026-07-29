@@ -356,6 +356,8 @@ Cada agente en modo student lee:
 
 ## 7. Sistema RAG para `/discover lit` (11 Submodos)
 
+> **Estado: diseño no implementado.** La capa RAG descrita a continuación (Scopus, Web of Science, ERIC, Redalyc, SciELO, etc.) es un objetivo de diseño. La recuperación de literatura actualmente implementada opera mediante búsqueda web general. La verificación de citas vía APIs abiertas (OpenAlex, Crossref) es la primera implementación planificada antes de evaluar integraciones con bases de suscripción, que requieren convenio institucional.
+
 ```
 ┌───────────────────────────────────────────────────────────┐
 │  Usuario: /discover lit estado                             │

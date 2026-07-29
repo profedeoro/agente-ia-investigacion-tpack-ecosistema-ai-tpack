@@ -36,7 +36,7 @@ Este NO es un asistente de investigación generalista. Es un **ecosistema tecnop
    - L4: Evaluación por evidencias (Evidence-Centered Design — Mislevy et al., 2003)
    - L5: Diseño de interacciones (ICAP — Chi & Wylie, 2014)
 
-5. **Cero alucinaciones bibliográficas.** El tutor IA nunca genera referencias inventadas. Todo resultado bibliográfico es trazable a Scopus, WoS, ERIC, Redalyc, SciELO o bases verificadas.
+5. **Verificación bibliográfica obligatoria.** El tutor IA debe verificar toda cita contra un identificador resoluble (DOI) antes de presentarla; toda cita no verificable debe marcarse explícitamente como tal. El modelo puede equivocarse: estudiantes y docentes asesores deben verificar las referencias entregadas. La integración automatizada con bases de suscripción (Scopus, WoS) requiere convenio institucional y **no está implementada**; el mecanismo de verificación actual se apoya en búsqueda web y APIs abiertas.
 
 6. **Calidad medida por evidencias, no por scores.** Un artefacto puede tener score 85/100, pero si las evidencias ECD no se demuestran, la competencia no está lograda.
 
