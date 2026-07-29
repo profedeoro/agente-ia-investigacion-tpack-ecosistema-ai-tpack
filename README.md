@@ -8,6 +8,8 @@
 [![TPACK](https://img.shields.io/badge/framework-AI--TPACK-purple)](#por-qué-este-proyecto-es-distinto)
 [![Institution](https://img.shields.io/badge/institution-Polit%C3%A9cnico%20Grancolombiano-orange)](https://www.poli.edu.co)
 
+> El contenido original de este proyecto se distribuye bajo [CC BY-NC 4.0](LICENSE). Componentes de terceros incorporados (submódulos y skills) conservan sus propias licencias — ver [`THIRD-PARTY-NOTICES.md`](THIRD-PARTY-NOTICES.md).
+
 ---
 
 ## El Problema que Resolvemos
