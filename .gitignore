@@ -96,3 +96,6 @@ clo-author/paper/replication/_build/
 # Archivos de Word del usuario (versiones de respaldo)
 ~$*.docx
 ~$*.xlsx
+
+# Gentle AI skill registry (machine-local index)
+.atl/
